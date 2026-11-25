@@ -1,13 +1,16 @@
-# Stan uzupełniania tekstów II Księgi Henocha
+# Stan tekstów — II Księga Henocha
 
-Data: 2026-11-25.
+Aktualizacja: 25 listopada 2026.
 
-- Rozdziały 1–3: istnieją wcześniej wygenerowane nagrania HeyGen. Oryginalne teksty tych nagrań nie znajdują się obecnie w repozytorium.
-- Rozdziały 4–9: dodane polskie robocze opracowania w plikach tekstowych, gotowe jako wsad do syntezy. To nie jest zatwierdzony przekład filologiczny; należy skontrolować wierność względem źródła przed publikacją.
-- Rozdziały 10–73: nie ma jeszcze w repozytorium kompletnych polskich tekstów. Nie należy ich traktować jako wygenerowanych ani zweryfikowanych.
+- Rozdziały **1–3**: istnieją wygenerowane MP3 HeyGen, ale teksty nie są jeszcze umieszczone w repozytorium.
+- Rozdziały **4–20**: zapisane osobne polskie wersje robocze w `teksty/Henoch_II_XXX.txt`, na podstawie angielskiego wydania W. R. Morfilla pod redakcją R. H. Charlesa (1896); wymagają ostatecznej korekty filologicznej.
+- Rozdziały **21–68**: nieuzupełnione w repozytorium.
+- Rozdziały **69–73**: materiał dodatku o Melchizedeku; nieuzupełniony. Numeracja tego dodatku bywa odmienna w poszczególnych wydaniach.
 
-Podstawa: W. R. Morfill, *The Book of the Secrets of Enoch*, red. R. H. Charles (1896). Tekst główny 1–68, dodatek o Melchizedeku obejmuje materiał numerowany w niektórych przekazach 69–73. Numeracja rozdziałów różni się pomiędzy edycjami — przed kompletowaniem konieczne jest trzymanie się jednej.
+Podstawa tekstowa: https://www.pseudepigrapha.com/pseudepigrapha/enochs2.htm
 
-Pełne źródło online: https://ucbf-aether.github.io/aingel-chronicles-/hidden-shelf/texts/2-enoch.html
+**Postęp przygotowania tekstów do generatora: 17 plików (4–20) / 73 rozdziały.** Audio 1–3 pozostaje osobnym zasobem HeyGen. Nie wolno traktować przygotowania tekstu jako wygenerowania audio.
 
-**UWAGA:** Skrypt nie pobiera z sieci brakujących przekładów i nie tworzy fikcyjnych rozdziałów. Aby ukończyć audiobook, potrzebne są rzeczywiste, sprawdzone pliki `teksty/Henoch_II_010.txt` do `Henoch_II_073.txt`.
+Uwaga do rozdziału 10: treść trudnych fragmentów przedstawiono bez dosłownych szczegółów; przy wydaniu krytycznym należy skonfrontować ze źródłem.
+
+Generator powinien pomijać wszystkie nieistniejące pliki i nie nazywać kompletnego audiobooka gotowym, dopóki nie istnieje 73/73 MP3.

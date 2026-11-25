@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+mp3/
+*.mp3
+lista_ffmpeg.txt
+.env

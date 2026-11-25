@@ -2,15 +2,14 @@
 
 Aktualizacja: 25 listopada 2026.
 
-- Rozdziały **1–3**: istnieją wygenerowane MP3 HeyGen, ale teksty nie są jeszcze umieszczone w repozytorium.
-- Rozdziały **4–20**: zapisane osobne polskie wersje robocze w `teksty/Henoch_II_XXX.txt`, na podstawie angielskiego wydania W. R. Morfilla pod redakcją R. H. Charlesa (1896); wymagają ostatecznej korekty filologicznej.
-- Rozdziały **21–68**: nieuzupełnione w repozytorium.
-- Rozdziały **69–73**: materiał dodatku o Melchizedeku; nieuzupełniony. Numeracja tego dodatku bywa odmienna w poszczególnych wydaniach.
+- Rozdziały **1–3**: istnieją wcześniej wygenerowane MP3 HeyGen, ale brak ich tekstów w repozytorium.
+- Rozdziały **4–35**: polskie opracowania robocze zapisane jako oddzielne pliki `teksty/Henoch_II_XXX.txt`. **Wymagają końcowej kontroli zgodności i redakcji przed publikacją**.
+- Rozdziały **36–68**: nieuzupełnione.
+- Rozdziały **69–73**: materiał dodatkowy o Melchizedeku; nieuzupełniony. Numeracja różni się w niektórych edycjach.
 
-Podstawa tekstowa: https://www.pseudepigrapha.com/pseudepigrapha/enochs2.htm
+Źródło angielskie: W. R. Morfill, red. R. H. Charles, *The Book of the Secrets of Enoch* (1896), domena publiczna.
+Źródło do sprawdzania 21–35: https://christianwalks.org/ancient_writings/2_enoch/2_enoch.htm
 
-**Postęp przygotowania tekstów do generatora: 17 plików (4–20) / 73 rozdziały.** Audio 1–3 pozostaje osobnym zasobem HeyGen. Nie wolno traktować przygotowania tekstu jako wygenerowania audio.
+**32 pliki tekstowe zapisane w repozytorium (rozdziały 4–35).** Dla 1–3 istnieją MP3, nie odpowiadające im pliki tekstowe. Samo istnienie tekstu nie oznacza gotowego MP3.
 
-Uwaga do rozdziału 10: treść trudnych fragmentów przedstawiono bez dosłownych szczegółów; przy wydaniu krytycznym należy skonfrontować ze źródłem.
-
-Generator powinien pomijać wszystkie nieistniejące pliki i nie nazywać kompletnego audiobooka gotowym, dopóki nie istnieje 73/73 MP3.
+Zachowujemy docelową numerację 1–73. Generator nie powinien tworzyć fikcyjnych rozdziałów lub raportować ukończonego audiobooka przed uzyskaniem wszystkich 73 nagrań.
